@@ -383,3 +383,63 @@ There is a noticeable **drop in top customer revenue in 2024**, with fewer custo
 - **Identify reasons behind the drop in recurring high-value clients** (pricing, competition, service issues).  
 - **Nurture current top spenders (2024)** with loyalty programs, tailored offers, or account-based strategies to grow their lifetime value.
 
+---
+
+### Key Insight: Top 10 Sales Representatives by Revenue (2023 vs 2024)
+
+#### Chart Referenced  
+Funnel Chart – Top 10 Sales Representatives by Revenue for 2023 and 2024
+
+---
+
+#### Observation  
+
+**2023 Sales Rep Performance:**
+
+| Rank | Rep ID | Revenue ($) |
+|------|--------|-------------|
+| 1    | REP09  | 27,000      |
+| 2    | REP06  | 26,000      |
+| 3    | REP10  | 23,000      |
+| 4    | REP08  | 22,000      |
+| 4    | REP07  | 22,000      |
+| 4    | REP02  | 22,000      |
+| 7    | REP01  | 20,000      |
+| 8    | REP04  | 18,000      |
+| 9    | REP03  | 17,000      |
+| 10   | REP05  | 14,000      |
+
+**2024 Sales Rep Performance:**
+
+| Rank | Rep ID     | Revenue ($) |
+|------|------------|-------------|
+| 1    | REP07      | 16,000      |
+| 2    | REP09      | 14,000      |
+| 2    | REP10      | 14,000      |
+| 2    | REP03      | 14,000      |
+| 2    | REP06      | 14,000      |
+| 6    | REP04      | 13,000      |
+| 6    | REP08      | 13,000      |
+| 8    | REP01      | 10,000      |
+| 9    | REP05      | 9,000       |
+| 10   | REP02      | 7,000       |
+
+---
+
+#### Interpretation  
+- In **2023**, top performers like **REP09** and **REP06** generated **$26K+**, indicating strong individual contribution.  
+- In **2024**, revenue per rep **declined across the board**, with no rep exceeding **$16K**.  
+- Several reps—**REP09, REP06, REP10, REP03, REP07**—remained in the top group but at significantly lower levels.
+
+---
+
+#### Impact  
+This indicates a **broad decline in sales rep productivity or deal value**, possibly due to market conditions, changes in compensation, or fewer opportunities. This could directly affect total revenue and quarterly targets.
+
+---
+
+#### Recommendation  
+- **Investigate the root cause** of declining rep performance—evaluate quota changes, lead quality, and external conditions.  
+- Provide **performance coaching or incentive restructuring** for key reps to help regain momentum.  
+- Consider **reallocating leads** based on historical rep performance and strengthening support for mid-tier reps who showed potential in 2023.  
+- Use funnel visuals in performance reviews to identify drop-off points and guide focused sales enablement strategies.

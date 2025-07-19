@@ -327,4 +327,59 @@ The decline in core B2B and retail channels may signal **reduced bulk demand** o
 - Consider **expanding Premium and Subscription tiers**, leveraging higher-margin opportunities for long-term growth.  
 - Use segment-level insights to align marketing, product bundling, and channel investments.
 
+---
+
+### Key Insight: Top 10 Customers by Revenue (2023 vs 2024)
+
+#### Chart Referenced  
+Table Chart – Top 10 Customers by Revenue (Sorted Descending)
+
+---
+
+#### Observation  
+
+| Year | Customer ID | Revenue ($) |
+|------|-------------|-------------|
+| 2023 | CUST1091    | 9,275       |
+| 2023 | CUST1015    | 6,784       |
+| 2023 | CUST1027    | 6,526       |
+| 2023 | CUST1095    | 5,958       |
+| 2023 | CUST1092    | 5,845       |
+| 2023 | CUST1069    | 5,829       |
+| 2023 | CUST1017    | 5,060       |
+| 2023 | CUST1083    | 4,859       |
+| 2023 | CUST1061    | 4,805       |
+| 2023 | CUST1033    | 4,785       |
+
+| Year | Customer ID | Revenue ($) |
+|------|-------------|-------------|
+| 2024 | CUST1048    | 5,510       |
+| 2024 | CUST1030    | 5,080       |
+| 2024 | CUST1046    | 4,438       |
+| 2024 | CUST1093    | 4,430       |
+| 2024 | CUST1099    | 3,658       |
+| 2024 | CUST1059    | 3,648       |
+| 2024 | CUST1061    | 3,533       |
+| 2024 | CUST1053    | 3,410       |
+| 2024 | CUST1023    | 3,380       |
+| 2024 | CUST1021    | 3,126       |
+
+---
+
+#### Interpretation  
+- In 2023, **CUST1091** was the top customer with **$9,275**, followed by several high-value customers above **$5K**.  
+- In 2024, the top customer **CUST1048** generated **$5,510**, indicating a **decline in high-value customer revenue**.  
+- Only **CUST1061** appears in both years, though their contribution dropped from **$4,805** to **$3,533**.
+
+---
+
+#### Impact  
+There is a noticeable **drop in top customer revenue in 2024**, with fewer customers crossing the $5K mark. This could suggest **customer churn**, **reduced order sizes**, or a shift in account focus.
+
+---
+
+#### Recommendation  
+- Conduct a **customer retention and segmentation analysis**—target prior top performers like CUST1091 and CUST1015 for re-engagement campaigns.  
+- **Identify reasons behind the drop in recurring high-value clients** (pricing, competition, service issues).  
+- **Nurture current top spenders (2024)** with loyalty programs, tailored offers, or account-based strategies to grow their lifetime value.
 

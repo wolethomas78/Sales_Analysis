@@ -187,10 +187,10 @@ Perform an in-depth analysis of Q3 sales drivers—review marketing campaigns, i
 
 ---
 
-### 📌 Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)
+### Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)
 
-#### 📊 Chart Referenced  
-Stacked Column Chart – Sales by Region and Sales Channels across Q1, Q2, and Q3 2024
+#### Chart Referenced  
+Matrix Chart – Sales by Region and Sales Channels across Q1, Q2, and Q3 2024
 
 ---
 

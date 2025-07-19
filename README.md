@@ -74,4 +74,58 @@ This dashboard is designed for:
 
 ---
 
+##  Key Insights & Recommendations (Q1–Q3 2024)
+
+###  Chart Referenced: Power BI KPI Cards – Revenue & Profit (PYTD vs YTD) by Quarter
+
+---
+
+### Q1 2024
+
+- **Observation:**  
+  - Revenue increased from **$50K (PYTD)** to **$61K (YTD)**  
+  - Profit rose from **$39K (PYTD)** to **$48K (YTD)**
+
+- **Interpretation:**  
+  The business saw a strong start in Q1 2024 with a **22% increase in revenue** and **23% increase in profit** compared to the same period last year.
+
+- **Impact:**  
+  Indicates successful sales initiatives and effective performance early in the year.
+
+- **Recommendation:**  
+  Continue to reinforce successful Q1 strategies. Scale up the high-performing products, regions, or customer segments that contributed to this growth.
+
+---
+
+### Q2 2024
+
+- **Observation:**  
+  - Revenue declined slightly from **$111K (PYTD)** to **$107K (YTD)**  
+  - Profit dropped from **$86K (PYTD)** to **$81K (YTD)**
+
+- **Interpretation:**  
+  A minor dip in revenue (~3.6%) and profit (~5.8%) signals a potential softening of sales performance.
+
+- **Impact:**  
+  This decline interrupts the positive momentum from Q1 and may point to operational or market challenges.
+
+- **Recommendation:**  
+  Perform a detailed variance analysis to uncover the root causes. Reassess sales strategies, review product/channel performance, and consider cost containment initiatives.
+
+---
+
+### Q3 2024
+
+- **Observation:**  
+  - Revenue dropped from **$173K (PYTD)** to **$142K (YTD)**  
+  - Profit decreased from **$133K (PYTD)** to **$107K (YTD)**
+
+- **Interpretation:**  
+  A significant year-over-year drop of **~18% in revenue** and **~20% in profit** shows a downward trend continuing into Q3.
+
+- **Impact:**  
+  Ongoing decline suggests broader issues such as declining demand, pricing pressure, or strategic misalignment.
+
+- **Recommendation:**  
+  Conduct a comprehensive business review. Focus on stabilizing key segments, optimizing pricing and promotions, and re-aligning resources to high-performing areas identified in earlier quarters.
 

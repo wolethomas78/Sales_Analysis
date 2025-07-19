@@ -138,6 +138,35 @@ Clustered Bar Chart – Top 10 Products by Revenue (Q1, Q2, Q3 2024)
 
 ---
 
+### Key Insight: Profit by Product Category (Q1–Q3 2024)
+
+#### Chart Referenced  
+Clustered Bar Chart – Profit by Product Category (Electronics, Sports, Clothing, Beauty, Home Goods) for Q1 to Q3 2024
+
+---
+
+#### Observation  
+- Electronics leads in profit for **Q1** with **$17,389**.  
+- Electronics profit declines to **$9,867** in **Q2**.  
+- In **Q3**, Sports becomes the top profit category with **$7,152**, surpassing Electronics.
+
+---
+
+#### Interpretation  
+Electronics shows strong early performance but experiences a significant profit decrease by mid-year, while Sports gains momentum and overtakes Electronics in Q3. This shift may indicate changing consumer demand or successful marketing initiatives in Sports.
+
+---
+
+#### Impact  
+Sustained profit decline in Electronics could affect overall margins, while Sports’ growth represents an opportunity to increase profitability in a rising category.
+
+---
+
+#### Recommendation  
+- Analyze factors causing Electronics’ profit drop, such as pricing or costs.  
+- Invest in expanding Sports category promotions and product development.  
+- Rebalance marketing and resource allocation toward high-performing categories to maximize profit growth.
+
 #### Observation  
 Treadmill leads the top 10 products with revenues of **$5.2K in Q1**, **$6.0K in Q2**, followed by a notable decline to **$3.58K in Q3**.
 

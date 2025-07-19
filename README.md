@@ -193,24 +193,6 @@ Sustained profit decline in Electronics could affect overall margins, while Spor
 - Invest in expanding Sports category promotions and product development.  
 - Rebalance marketing and resource allocation toward high-performing categories to maximize profit growth.
 
-#### Observation  
-Treadmill leads the top 10 products with revenues of **$5.2K in Q1**, **$6.0K in Q2**, followed by a notable decline to **$3.58K in Q3**.
-
----
-
-#### Interpretation  
-Sales showed growth between Q1 and Q2 but dropped significantly in Q3, which may indicate seasonal demand fluctuations, supply chain challenges, or increased competition.
-
----
-
-#### Impact  
-This decline could negatively affect overall quarterly revenue and profitability, given Treadmill’s position as the highest-revenue product.
-
----
-
-#### Recommendation  
-Perform an in-depth analysis of Q3 sales drivers—review marketing campaigns, inventory management, and competitor activities. Implement targeted promotions or product bundling to boost Q3 sales and smooth revenue across the year.
-
 ---
 
 ### Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)

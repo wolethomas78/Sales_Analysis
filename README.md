@@ -4,6 +4,9 @@
 
 "Welcome to the Sales Dashboard project. This repository presents a comprehensive Power BI dashboard developed to evaluate sales performance, identify key trends, and generate actionable insights to inform strategic business decisions and support sustained growth."
 
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/c01b979964282c9db30caa214e19d2f338345cb0/revenuepage.png)
+
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/c01b979964282c9db30caa214e19d2f338345cb0/salespage.png)
 ---
 
 ##  Project Overview

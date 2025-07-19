@@ -6,12 +6,6 @@
 
 ---
 
-# Sales Dashboard Project
-
-Welcome to the Sales Dashboard project. This repository contains an interactive Power BI dashboard designed to provide detailed insights into sales performance across various business dimensions. It enables users to monitor trends, identify opportunities, and support strategic decision-making.
-
----
-
 ##  Project Overview
 
 ### Goal

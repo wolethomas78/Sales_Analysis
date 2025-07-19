@@ -330,7 +330,7 @@ The decline in core B2B and retail channels may signal **reduced bulk demand** o
 ---
 
 ### Key Insight: Top 10 Customers by Revenue (2023 vs 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/30c20d9f59669431f7a8438ebf7dc331f13f6b0a/customeridbyrevenue.png)
 #### Chart Referenced  
 Table Chart – Top 10 Customers by Revenue (Sorted Descending)
 

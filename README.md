@@ -75,7 +75,7 @@ This dashboard is designed for:
 ---
 
 ##  Key Insights & Recommendations (Q1–Q3 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/saleskpi.png)
 ###  Chart Referenced: Power BI KPI Cards – Revenue & Profit (PYTD vs YTD) by Quarter
 
 ---
@@ -132,14 +132,14 @@ This dashboard is designed for:
 ---
 
 ### Key Insight: Treadmill Revenue Trend (2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/top10products.png)
 #### Chart Referenced  
 Clustered Bar Chart – Top 10 Products by Revenue (Q1, Q2, Q3 2024)
 
 ---
 
 ### Key Insight: Profit by Product Category (Q1–Q3 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/productbycategory.png)
 #### Chart Referenced  
 Clustered Bar Chart – Profit by Product Category (Electronics, Sports, Clothing, Beauty, Home Goods) for Q1 to Q3 2024
 
@@ -188,7 +188,7 @@ Perform an in-depth analysis of Q3 sales drivers—review marketing campaigns, i
 ---
 
 ### Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/profitbyregion%26channels.png)
 #### Chart Referenced  
 Matrix Chart – Sales by Region and Sales Channels across Q1, Q2, and Q3 2024
 
@@ -286,7 +286,7 @@ Line Chart – Monthly Profit and Revenue Trends (March–December 2023 & Select
 ---
 
 ### Key Insight: Revenue by Customer Segment (2023 vs 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/revenuebycustomerseg.png)
 #### Chart Referenced  
 Clustered Bar Chart – Revenue by Customer Segment Comparison (2023 vs 2024)
 
@@ -386,7 +386,7 @@ There is a noticeable **drop in top customer revenue in 2024**, with fewer custo
 ---
 
 ### Key Insight: Top 10 Sales Representatives by Revenue (2023 vs 2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/salesrepbyrevenue.png)
 #### Chart Referenced  
 Funnel Chart – Top 10 Sales Representatives by Revenue for 2023 and 2024
 

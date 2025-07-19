@@ -241,7 +241,7 @@ Fluctuations in channel effectiveness across regions can impact supply chain pla
 - --
 
 ### Key Insight: Profit vs Revenue Comparison (2023–2024)
-
+![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/1e6f1b7e66a6ce5d4b0c31b3071ae3d0394c7312/monthprofit%26revenue.png)
 #### Chart Referenced  
 Line Chart – Monthly Profit and Revenue Trends (March–December 2023 & Selected Months in 2024)
 

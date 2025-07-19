@@ -20,7 +20,7 @@ Develop a dynamic and interactive sales dashboard to:
 
 ---
 
-### Tools Used
+### Tool(s) Used
 - **Power BI** – For building interactive visualizations and reports
   
 ---

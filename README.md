@@ -283,5 +283,48 @@ Line Chart – Monthly Profit and Revenue Trends (March–December 2023 & Select
 - Implement tighter cost control or promotional adjustments during weaker months (July–August).  
 - Forecast cash flow conservatively for the remainder of 2024 and consider revising quarterly targets.
 
+---
+
+### Key Insight: Revenue by Customer Segment (2023 vs 2024)
+
+#### Chart Referenced  
+Clustered Bar Chart – Revenue by Customer Segment Comparison (2023 vs 2024)
+
+---
+
+#### Observation  
+
+**2023 Revenue by Segment:**  
+- Wholesale: **$70,241**  
+- Retail: **$67,050**  
+- Online Direct: **$22,696**  
+- High-Income Customers: **$5,550**
+
+**2024 Revenue by Segment:**  
+- Wholesale: **$36,850**  
+- Retail: **$44,378**  
+- Online Direct: **$34,036**  
+- Subscription: **$13,410** *(new segment)*  
+- Premium Customers: **$3,510** *(new segment)*
+
+---
+
+#### Interpretation  
+- **Wholesale and Retail** revenues have declined significantly in 2024.  
+- **Online Direct** saw substantial growth, increasing from **$22.7K to $34K** (~50%).  
+- **New segments**—**Subscription** and **Premium Customers**—have been introduced, contributing a combined **$16.9K** in revenue.
+
+---
+
+#### Impact  
+The decline in core B2B and retail channels may signal **reduced bulk demand** or changing consumer purchasing patterns. However, growth in **Online Direct** and new segments reflects a **shift toward digital and recurring revenue models**.
+
+---
+
+#### Recommendation  
+- **Double down on Online Direct and Subscription** segments—optimize user experience, offers, and engagement strategies.  
+- **Reassess Wholesale and Retail strategies**—explore pricing models, partner relationships, or shifting demand.  
+- Consider **expanding Premium and Subscription tiers**, leveraging higher-margin opportunities for long-term growth.  
+- Use segment-level insights to align marketing, product bundling, and channel investments.
 
 

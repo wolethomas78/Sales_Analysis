@@ -461,7 +461,7 @@ Methodology
 ---
 
  Contact Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com at youremail@example.com for questions or collaborations!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com for questions or collaborations!
 
 ---
 

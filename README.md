@@ -455,11 +455,11 @@ Methodology
 ---
 
  Contact Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com for questions or collaborations!
+- Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com for questions or collaborations!
 
 ---
 
 Why This Project Matters
-This dashboard demonstrates how data-driven decision-making can improve sales strategies and business performance. It showcases skills in data analysis, visualization, and storytelling — essential for any business intelligence or analytics role.
+- This dashboard demonstrates how data-driven decision-making can improve sales strategies and business performance. It showcases skills in data analysis, visualization, and storytelling — essential for any business intelligence or analytics role.
 
 

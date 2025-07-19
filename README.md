@@ -451,3 +451,21 @@ This indicates a **broad decline in sales rep productivity or deal value**, poss
 - Provide **performance coaching or incentive restructuring** for key reps to help regain momentum.  
 - Consider **reallocating leads** based on historical rep performance and strengthening support for mid-tier reps who showed potential in 2023.  
 - Use funnel visuals in performance reviews to identify drop-off points and guide focused sales enablement strategies.
+
+---
+
+Methodology
+•	Aggregated monthly revenue and sales by categories & regions.
+•	Built the dashboard in Power BI with interactive filters and drill-through.
+
+---
+
+ Contact Me
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com at youremail@example.com for questions or collaborations!
+
+---
+
+Why This Project Matters
+This dashboard demonstrates how data-driven decision-making can improve sales strategies and business performance. It showcases skills in data analysis, visualization, and storytelling — essential for any business intelligence or analytics role.
+
+

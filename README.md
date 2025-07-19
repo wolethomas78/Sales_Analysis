@@ -184,3 +184,57 @@ This decline could negatively affect overall quarterly revenue and profitability
 
 #### Recommendation  
 Perform an in-depth analysis of Q3 sales drivers—review marketing campaigns, inventory management, and competitor activities. Implement targeted promotions or product bundling to boost Q3 sales and smooth revenue across the year.
+
+---
+
+### 📌 Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)
+
+#### 📊 Chart Referenced  
+Stacked Column Chart – Sales by Region and Sales Channels across Q1, Q2, and Q3 2024
+
+---
+
+#### Observation  
+- **Q1 Highlights:**
+  - South America (Online Direct) leads with **9,910**
+  - Africa (Offline) = **4,716**
+  - Asia (Retail) = **2,926**
+  - Europe (Online Direct) = **3,295**
+  - North America (Channel unspecified) = **2,166**
+
+- **Q2 Highlights:**
+  - Asia (Offline) = **4,127**
+  - South America (Offline) = **3,974**
+  - Europe (Offline) = **2,775**
+  - Africa (Offline) = **1,873**
+  - North America (Retail) = **1,369**
+
+- **Q3 Highlights:**
+  - Europe (Retail) = **4,120**
+  - Africa (Offline) = **2,191**
+  - South America (Online Direct) = **2,636**
+  - Asia (Online Direct) = **1,139**
+  - North America (Wholesale) = **1,690**
+
+---
+
+#### Interpretation  
+- In **Q1**, South America dominates through **Online Direct**, while Africa performs well through **Offline** channels.  
+- **Q2** sees a pivot to **Offline sales**, with Asia and South America leading via this channel.  
+- By **Q3**, Europe emerges on top with **Retail** sales, while Online Direct in South America declines compared to Q1.
+
+These trends suggest changing customer preferences and possibly seasonal or campaign-driven channel performance.
+
+---
+
+####  Impact  
+Fluctuations in channel effectiveness across regions can impact supply chain planning, channel investments, and regional strategies. Relying heavily on a single channel in one region may also pose risks if customer behavior shifts unexpectedly.
+
+---
+
+#### Recommendation  
+- **Capitalize on high-performing channel-region pairs**, such as Retail in Europe (Q3) and Online Direct in South America (Q1).  
+- **Diversify channel strategies** in regions like North America, where performance is lower and fragmented.  
+- **Monitor declining segments**, like Online Direct in South America from Q1 to Q3, for potential recovery actions or channel repositioning.  
+- **Align marketing and logistics** strategies with quarterly channel trends to optimize efficiency and responsiveness.
+

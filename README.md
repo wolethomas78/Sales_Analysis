@@ -451,18 +451,19 @@ This indicates a **broad decline in sales rep productivity or deal value**, poss
 
 ---
 
-Methodology
-•	Aggregated monthly revenue and sales by categories & regions.
-•	Built the dashboard in Power BI with interactive filters and drill-through.
+### Methodology
+- •	Aggregated monthly revenue and sales by categories & regions.
+- •	Built the dashboard in Power BI with interactive filters and drill-through.
 
 ---
 
- Contact Me
+### Contact Me
 - Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/oluwolefagbemi) or wolethomas78@gmail.com for questions or collaborations!
 
 ---
 
-Why This Project Matters
-- This dashboard demonstrates how data-driven decision-making can improve sales strategies and business performance. It showcases skills in data analysis, visualization, and storytelling — essential for any business intelligence or analytics role.
+### Why This Project Matters
+- This dashboard demonstrates how data-driven decision-making can improve sales strategies and business performance.
+- It showcases skills in data analysis, visualization, and storytelling — essential for any business intelligence or analytics role.
 
 

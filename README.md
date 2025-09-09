@@ -15,6 +15,8 @@
 - [Data Source](#data-source)
 - [Key Features](#key-features)
 - [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
+- [Top 10 Revenue Trend 2024](#top-10-revenue-trend-2024)
+
 
 
 
@@ -141,7 +143,7 @@ This dashboard is designed for:
 
 ---
 
-### Key Insight: Top 10 Revenue Trend (2024)
+### Top 10 Revenue Trend 2024
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/top10products.png)
 #### Chart Referenced  
 Clustered Bar Chart – Top 10 Products by Revenue (Q1, Q2, Q3 2024)

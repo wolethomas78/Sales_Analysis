@@ -17,12 +17,14 @@
 - [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
 - [Top 10 Revenue Trend 2024](#top-10-revenue-trend-2024)
 - [Product Category Profit by Quarter](#product-category-profit-by-quarter)
-
-
-
-
-
-
+- [Regional & Channel Sales by Quarter](#regional--channel-sales-by-quarter)
+- [Quarterly Revenue vs Profit](#quarterly-revenue-vs-profit)
+- [Revenue by Customer Segment](#revenue-by-customer-segment)
+- [Top customers](#top-customers)
+- [Top Sales Representatives](#top-sales-representatives)
+- [Methodology](#methodology)
+- [Contact Me](#contact-me)
+- [Why This Project Matters](#why-this-project-matters)
 
 
 ## Project Overview
@@ -208,7 +210,7 @@ Sustained profit decline in Electronics could affect overall margins, while Spor
 - Rebalance marketing and resource allocation toward high-performing categories to maximize profit growth.
 
 ---
-
+ ## Regional & Channel Sales by Quarter
 ### Key Insight: Sales by Region and Sales Channels (Q1–Q3 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/profitbyregion%26channels.png)
 #### Chart Referenced  
@@ -261,7 +263,7 @@ Fluctuations in channel effectiveness across regions can impact supply chain pla
 - **Align marketing and logistics** strategies with quarterly channel trends to optimize efficiency and responsiveness.
 
 - --
-
+  ## Quarterly Revenue vs Profit
 ### Key Insight: Profit vs Revenue Comparison (2023–2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/1e6f1b7e66a6ce5d4b0c31b3071ae3d0394c7312/monthprofit%26revenue.png)
 #### Chart Referenced  
@@ -306,7 +308,7 @@ Line Chart – Monthly Profit and Revenue Trends (March–December 2023 & Select
 - Forecast cash flow conservatively for the remainder of 2024 and consider revising quarterly targets.
 
 ---
-
+  ## Revenue by Customer Segment
 ### Key Insight: Revenue by Customer Segment (2023 vs 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/revenuebycustomerseg.png)
 #### Chart Referenced  
@@ -350,7 +352,7 @@ The decline in core B2B and retail channels may signal **reduced bulk demand** o
 - Use segment-level insights to align marketing, product bundling, and channel investments.
 
 ---
-
+  ## Top customers
 ### Key Insight: Top 10 Customers by Revenue (2023 vs 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/30c20d9f59669431f7a8438ebf7dc331f13f6b0a/customeridbyrevenue.png)
 #### Chart Referenced  
@@ -406,7 +408,7 @@ There is a noticeable **drop in top customer revenue in 2024**, with fewer custo
 - **Nurture current top spenders (2024)** with loyalty programs, tailored offers, or account-based strategies to grow their lifetime value.
 
 ---
-
+  ## Top Sales Representatives
 ### Key Insight: Top 10 Sales Representatives by Revenue (2023 vs 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/salesrepbyrevenue.png)
 #### Chart Referenced  

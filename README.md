@@ -9,7 +9,19 @@
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/c01b979964282c9db30caa214e19d2f338345cb0/salespage.png)
 ---
 
-##  Project Overview
+## Table of Content
+     - [Project Overview](#project-overview)
+     - [Tool Used](#tool-used)
+     - [Data Source](#data-source)
+     - [Key Features](#key-features)
+     - [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
+
+
+
+
+
+
+## Project Overview
 
 ### Goal
 Develop a dynamic and interactive sales dashboard to:
@@ -23,7 +35,7 @@ Develop a dynamic and interactive sales dashboard to:
 
 ---
 
-### Tool(s) Used
+### Tool Used
 - **Power BI** – For building interactive visualizations and reports
   
 ---
@@ -70,6 +82,7 @@ This dashboard is designed for:
 -  **Top 10 Customers and Sales Representatives**
 
 ---
+## Quarterly Revenue and Profit Comparison
 
 ##  Key Insights & Recommendations (Q1–Q3 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/saleskpi.png)

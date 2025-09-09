@@ -10,11 +10,11 @@
 ---
 
 ## Table of Content
-     - [Project Overview](#project-overview)
-     - [Tool Used](#tool-used)
-     - [Data Source](#data-source)
-     - [Key Features](#key-features)
-     - [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
+ - [Project Overview](#project-overview)
+- [Tool Used](#tool-used)
+- [Data Source](#data-source)
+- [Key Features](#key-features)
+- [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
 
 
 

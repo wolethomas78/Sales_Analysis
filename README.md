@@ -16,6 +16,8 @@
 - [Key Features](#key-features)
 - [Quarterly Revenue and Profit Comparison](#quarterly-revenue-and-profit-comparison)
 - [Top 10 Revenue Trend 2024](#top-10-revenue-trend-2024)
+- [Product Category Profit by Quarter](#product-category-profit-by-quarter)
+
 
 
 
@@ -175,7 +177,7 @@ Perform an in-depth analysis of Q3 sales drivers—review marketing campaigns, i
 
 
 ---
-
+  ## Product Category Profit by Quarter
 ### Key Insight: Profit by Product Category (Q1–Q3 2024)
 ![alt image](https://github.com/wolethomas78/Sales_Analysis/blob/0d8f63a7eeaced8ef08c0c2e53addaa3704286d7/productbycategory.png)
 #### Chart Referenced  
